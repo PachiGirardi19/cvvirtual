@@ -7363,7 +7363,7 @@ textarea.form-control-lg {
 }
 
 .mb-1 {
-  margin-bottom: 0.25rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .mb-2 {
@@ -11418,7 +11418,7 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
-}
+}     
 
 @media (min-width: 768px) {
   section.resume-section {
